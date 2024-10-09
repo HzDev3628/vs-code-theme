@@ -1,0 +1,21 @@
+{
+  "name": "hzdev-theme",
+  "displayName": "Hzdev Theme ",
+  "description": "Beauty and simple theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simple Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Simple Theme-color-theme.json"
+      }
+    ]
+  }
+}
