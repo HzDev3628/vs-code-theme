@@ -1,4 +1,4 @@
-# hzdev-theme README
+# Custom-Theme README
 
 ## Working with Markdown
 
